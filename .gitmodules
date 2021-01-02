@@ -1,0 +1,9 @@
+[submodule "glfw"]
+	path = glfw
+	url = git@github.com:glfw/glfw.git
+[submodule "Vulkan-Hpp"]
+	path = Vulkan-Hpp
+	url = git@github.com:KhronosGroup/Vulkan-Hpp.git
+[submodule "Vulkan-Headers"]
+	path = Vulkan-Headers
+	url = git@github.com:KhronosGroup/Vulkan-Headers.git
